@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sexta linea
+=======
+cuarta linea
+>>>>>>> miramaDioni
